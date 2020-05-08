@@ -1,0 +1,34 @@
+body{
+	background-color:#336600;
+}
+h1{
+	
+	text-align:center;
+	font-size:60px;
+	
+}
+div{
+	
+	width:746px;
+	height:540px;
+	margin:auto;
+	background-color:white;
+}
+#slika{
+	
+	width:740px;
+	height:480px;
+	display:block;
+	margin:auto;
+	border: 3px solid black;
+}
+#malaslika{
+	
+	width:73px;
+	height:52px;
+	border: 1px solid black;
+	margin-left:-4px;
+}
+#Naslov{
+	text-align:center;
+}
